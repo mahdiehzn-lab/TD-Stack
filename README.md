@@ -41,9 +41,8 @@ The application is structured into 6 functional tabs inside `app.py`:
      - Green energy utilization heatmap across physical racks ($q^2$).
      - Exergy & cooling power (chiller load) efficiency comparison.
 
-6. **📖 Guide & System Specifications:**
-   - Complete project documentation, tab navigation breakdown, and proposal specifications (including the requested budget of **€48,000** over a **9-month** period).
-
+6. **📖 Guide & System Specifications**
+   
 ---
 
 ## 🛠️ Installation & Local Deployment
