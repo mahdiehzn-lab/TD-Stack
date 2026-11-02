@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-**Restack Open Call 2026-11R Proposal Simulator** — Demonstrating $\mathcal{O}(1)$ Deterministic Resource Mapping, Flash Crowd Immunity, and Thermo-Economic Balancing using $TD(k,q)$ Transversal Designs.
+Demonstrating $\mathcal{O}(1)$ Deterministic Resource Mapping, Flash Crowd Immunity, and Thermo-Economic Balancing using $TD(k,q)$ Transversal Designs.
 
 ---
 
