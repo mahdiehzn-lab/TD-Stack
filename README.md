@@ -17,7 +17,7 @@
 
 The application is structured into 6 functional tabs inside `app.py`:
 
-1. **📐 Algebraic Sharding & Mapping ($\Phi(\mathbf{x})$):**
+1. **📐 Algebraic Sharding & Mapping (Φ(x)):**
    - Replaces probabilistic AI training with finite field arithmetic.
    - Computes deterministic resource placement in **under 1 microsecond** with $\mathcal{O}(k)$ time complexity.
    - Includes reactive matrix coefficient setups ($\alpha, \beta$) and multi-dimensional state vector sliders.
